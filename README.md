@@ -8,7 +8,6 @@ I’m an entry-level software engineer focused on **full-stack development, embe
 - Embedded systems + hardware/software integration
 - ML inference optimization on constrained hardware
 - Full-stack apps
-- Performance debugging where the numbers actually move
 
 ## Built
 
@@ -36,6 +35,6 @@ Run live sales and promotional events for brands like Crown Royal, Don Julio, Ca
 
 I want to work on real systems: embedded software, full-stack products, ML systems, performance optimization, and hardware/software integration.
 
-I don’t want to just collect technologies. I want to understand systems deeply, build useful software, and become the kind of engineer who can debug across layers instead of only working at the surface.
+I want to understand code, build useful software, and become the kind of engineer who can debug across layers.
 
 [LinkedIn](https://www.linkedin.com/in/itsrezaok) · [GitHub](https://github.com/ItsRezaOk)
